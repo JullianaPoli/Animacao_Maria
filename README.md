@@ -27,9 +27,7 @@ O resultado é um vídeo divertido, expressivo e cheio de personalidade, ideal p
 
 ## 📺 Assista
 
-*(Se tiver um link pro vídeo, coloque aqui!)*  
-[👉 Assista ao curta completo](#)
-
+C:\Users\Juliana\Downloads\Animação\Maria e Pedrinho\Maria e Pedrinho.mp4
 ---
 
 ## 📁 Estrutura do Projeto
@@ -38,5 +36,4 @@ O resultado é um vídeo divertido, expressivo e cheio de personalidade, ideal p
 📦 maria-e-pedrinho
  ┣ 📸 imagens/
  ┣ 🎧 audio/
- ┣ 🎞️ video/
  ┗ 📄 README.md
